@@ -1,6 +1,4 @@
 // Calculator.java
-// Lab 11 - The Calculator Component Program - Part 1
-// Student, starting version
 
 import java.awt.*;
 import java.awt.event.*;
